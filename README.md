@@ -8,7 +8,7 @@ I'm a sophomore Computer Science student & career changer.\
 🚀  I'm currently working on [a reporting app using Django](http://a)\
 🧠  I'm learning Java & C++ in school right now.\
 🤝  I'm open to collaborating on interesting projects\
-⚡  I like when waffle cone bits are inside frozen vanilla custard.\
+⚡  I like when waffle cone bits are inside frozen vanilla custard.
 
 ### Skills
 
