@@ -1,4 +1,4 @@
-Hello world![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hello world!![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) \
 My name is Romina French
 =====================================================================================================================================
 Software Developer Intern
@@ -6,7 +6,7 @@ Software Developer Intern
 I'm a sophomore Computer Science student & career changer.\
 🌍  I'm based in Austin. TX\
 🚀  I'm currently working on [a reporting app using Django](http://a)\
-🧠  I'm learning Java\
+🧠  I'm learning Java & C++ in school right now.\
 🤝  I'm open to collaborating on interesting projects\
 ⚡  I like when waffle cone bits are inside frozen vanilla custard.\
 
