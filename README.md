@@ -5,7 +5,7 @@ Software Developer Intern
 -------------------------
 I'm a sophomore Computer Science student & career changer.\
 🌍  I'm based in Austin. TX\
-🚀  I'm currently working on [a reporting app using Django](http://a)\
+🚀  I'm currently working on a social media app using Django
 🧠  I'm learning Java & C++ in school right now.\
 🤝  I'm open to collaborating on interesting projects\
 🍦  I like peanuts & waffle cone bits inside frozen vanilla custard.
