@@ -7,7 +7,7 @@ Software Developer Intern
 🌍  I'm based in Austin. TX\
 🚀  I'm currently working on a social media app using Django & on an informational website with a social impact.\
 🧠  I'm learning Java & C++ in school right now.\
-🤝  I'm open to collaborating on interesting projects\
+🤝  I'm open to collaborating on open source & interesting projects\
 🍦  I like peanuts & waffle cone bits inside frozen vanilla custard.
 
 ### Skills & Technologies
