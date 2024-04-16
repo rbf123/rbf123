@@ -1,14 +1,14 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hello world!\
 My name is Romina French
 =====================================================================================================================================
-Software Developer Intern
+Software Developer
 -------------------------
 🎒 I'm a sophomore Computer Science student & career changer.\
-🌍  I'm based in Austin. TX\
-🚀  I'm currently working on an informational website with a social impact.\
-🧠  I'm learning Java & C++ in school right now.\
-🤝  I'm open to collaborating on open source & interesting projects\
-🍦  I like peanuts & waffle cone bits inside frozen vanilla custard.
+🌍 I'm based in Austin. TX\
+🚀 I'm currently working on an informational website with a social impact.\
+🧠 I'm learning Java & C++ in school right now.\
+🤝 I'm open to collaborating on open source & interesting projects\
+🍦 I like peanuts & waffle cone bits inside frozen vanilla custard.
 
 ### Skills & Technologies
 
