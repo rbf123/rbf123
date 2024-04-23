@@ -5,7 +5,7 @@ Software Developer
 -------------------------
 🎒 I'm a sophomore Computer Science student & career changer.\
 🌍 I'm based in Austin. TX\
-🚀 I'm currently working on an informational website with a social impact.\
+🚀 I'm currently working on <a href="https://rbf123.github.io/RFrench_AdvocacyProject/">an informational website with a social impact.</a>\
 🧠 I'm learning Java & C++ in school right now.\
 🤝 I'm open to collaborating on open source & interesting projects\
 🍦 I like peanuts & waffle cone bits inside frozen vanilla custard.
