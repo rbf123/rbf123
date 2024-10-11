@@ -8,7 +8,7 @@ I'm an incoming junior, studying Computer Science and gaining experience in the 
 🚀 I'm currently working on <a href="https://public.tableau.com/app/profile/romina.french/viz/StocksDashboardv1_0/Dashboard1">a Tableau stocks dashboard project </a> & a Javascript web app. \
 🧠  I'm learning Java in school, I can't wait to work on personal Java projects after finishing my Java courses this semester.\
 🤝  I'm open to collaborating on interesting & open source projects \
-🎮  I like to read, sew, and play video games in my spare time. I like to practice what I've learned in the context of gaming, like making front end - HTML / CSS designs to make webpages for my guild, creating data visualizations about my favorite character's raid statistics, and making simple apps like our guild's multiplayer lottery for game currency in my favorite MMORPG.
+🎮  I like to read, sew, and play video games in my spare time. I usually practice what I've learned in the context of gaming, like making front end - HTML / CSS designs to make webpages for my guild, creating data visualizations about my favorite character's raid statistics, and making simple apps like our guild's multiplayer lottery for game currency in my favorite MMORPG.
 
 ### Skills
 
