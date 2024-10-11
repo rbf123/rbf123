@@ -2,10 +2,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =====================================================================================================================================
 I'm an incoming junior, studying Computer Science and gaining experience in the tech industry. \
 💼 I have worked hard in the past year as: Software Developer Intern, Data Analytics Extern & IT / Information Technology Extern \
-🌍  I'm based in Austin. TX \
-🖥️  See my project portfolio at [Python Django Portfolio](http://rominafrench.pythonanywhere.com)  \
-🚀 I'm currently working on <a href="https://public.tableau.com/app/profile/romina.french/vizzes">a Tableau dashboard project </a> & <a href="https://rbf123.github.io/RFrench_AdvocacyProject/">an informational website with a social impact.</a> \
-🧠  I'm learning Java \
+🌍 I'm based in Austin. TX \
+🖥️ See my project portfolio at [Python Django Portfolio](http://rominafrench.pythonanywhere.com)  \
+📈 My Tableau data viz projects can be found on <a href="https://public.tableau.com/app/profile/romina.french/vizzes">my Tableau profile </a>
+🚀 I'm currently working on <a href="https://public.tableau.com/app/profile/romina.french/viz/StocksDashboardv1_0/Dashboard1">a Tableau stocks dashboard project </a> & a Javascript web app.
+🧠  I'm learning Java in school\
 🤝  I'm open to collaborating on interesting & open source projects \
 🎮  I like to play video games in my spare time, and I like to practice what I've learned in the context of gaming, like making front end - HTML / CSS designs to make webpages for a guild, or making a simple Java app for a multiplayer lottery using in game currency in my favorite MMORPG.
 
