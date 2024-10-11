@@ -5,8 +5,8 @@ I'm an incoming junior, studying Computer Science and gaining experience in the 
 🌍 I'm based in Austin. TX \
 🖥️ See my project portfolio at [Python Django Portfolio](http://rominafrench.pythonanywhere.com)  \
 📈 My Tableau data viz projects can be found on <a href="https://public.tableau.com/app/profile/romina.french/vizzes">my Tableau profile </a>
-🚀 I'm currently working on <a href="https://public.tableau.com/app/profile/romina.french/viz/StocksDashboardv1_0/Dashboard1">a Tableau stocks dashboard project </a> & a Javascript web app.
-🧠  I'm learning Java in school\
+🚀 I'm currently working on <a href="https://public.tableau.com/app/profile/romina.french/viz/StocksDashboardv1_0/Dashboard1">a Tableau stocks dashboard project </a> & a Javascript web app. \
+🧠  I'm learning Java in school, I can't wait to work on personal Java projects after finishing my Java courses this semester.\
 🤝  I'm open to collaborating on interesting & open source projects \
 🎮  I like to play video games in my spare time, and I like to practice what I've learned in the context of gaming, like making front end - HTML / CSS designs to make webpages for a guild, or making a simple Java app for a multiplayer lottery using in game currency in my favorite MMORPG.
 
