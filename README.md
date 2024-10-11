@@ -4,7 +4,7 @@ I'm an incoming junior, studying Computer Science and gaining experience in the 
 💼 I have worked hard in the past year as: Software Developer Intern, Data Analytics Extern & IT / Information Technology Extern \
 🌍 I'm based in Austin. TX \
 🖥️ See my project portfolio at [Python Django Portfolio](http://rominafrench.pythonanywhere.com)  \
-📈 My Tableau data viz projects can be found on <a href="https://public.tableau.com/app/profile/romina.french/vizzes">my Tableau profile </a>
+📈 My Tableau data viz projects can be found on <a href="https://public.tableau.com/app/profile/romina.french/vizzes">my Tableau profile </a> \
 🚀 I'm currently working on <a href="https://public.tableau.com/app/profile/romina.french/viz/StocksDashboardv1_0/Dashboard1">a Tableau stocks dashboard project </a> & a Javascript web app. \
 🧠  I'm learning Java in school, I can't wait to work on personal Java projects after finishing my Java courses this semester.\
 🤝  I'm open to collaborating on interesting & open source projects \
